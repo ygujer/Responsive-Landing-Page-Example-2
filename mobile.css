@@ -1,0 +1,19 @@
+#navbar{
+    flex-direction: column;
+    padding: 0.5rem 0;
+    overflow: hidden;
+    height: 80px;
+}
+
+#twitch .items{
+    flex-direction: column;
+    
+}
+
+#twitch .items .item{
+    width: 100%;
+}
+
+.courses .course{
+    flex-direction: column;
+}
